@@ -15,7 +15,7 @@ A standard game of Tic-Tac-Toe in Leo.
 ❌ ❕ ❌ ❕ ⭕
 sdf
 ## Representing Statesdf
-Leo allows users to define composite data types with the `struct` keyword. sdf
+Leo allows users to define composite data types with the `struct` keyword. sdfsad
 The game board is represented by a structыв called `Board`, which contains three `Row`s.
 An alternative representation would be to use an array, however, these are not yet ываsupported in Leo.sфыв
 
